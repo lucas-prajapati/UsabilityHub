@@ -256,7 +256,7 @@ header {
 /* examples section */
 
 .examples-section {
-    padding: 80px var(--padding-inline-section) ;
+    padding: 50px var(--padding-inline-section) ;
 }
 
 .examples-header {
